@@ -4,13 +4,11 @@
 
 Computer Science Student | Backend Developer | AI Integration Enthusiast
 
-I build production-ready systems, not just assignments.
-
 ---
 
 ## 👨‍💻 About Me
 
-I am a Computer Science student focused on building scalable backend systems and AI-powered applications.
+I am a Computer Science / Informatics student focused on building scalable backend systems and AI-powered applications.
 
 My main interests include:
 
@@ -26,27 +24,28 @@ I prefer building real systems with proper structure, database design, and deplo
 
 ## 🚀 Highlight Projects
 
-### 🧠 Teman Aman — AI ChatBot System
+### 🧠 Teman Aman — Mobile App with AI-Integrated ChatBot
 
-AI-powered Telegram chatbot focused on education and mental health awareness.
+AI-powered Telegram chatbot focused on sexual violence prevention education and mental health awareness.
 
 **Tech Stack:**
 
-* Python (python-telegram-bot)
-* FastAPI (Admin Panel)
-* MySQL (Railway)
-* OpenAI GPT-4o
+* Python FastAPI
+* Filament (Admin Panel)
+* Flutter
+* MySQL
+* OpenAI GPT-5o
 * SQLAlchemy ORM
-* Render Deployment
+* Railway Deployment
 
 **Key Features:**
 
 * AI contextual chat
 * Session-based state management
 * Educational content module
-* Quiz engine (production-ready structure)
+* Quiz engine
 * Admin dashboard
-* Structured database with 7 relational tables
+* Structured database with 20+ relational tables
 * Clean architecture separation (Bot + Admin)
 
 ---
@@ -71,7 +70,7 @@ Mobile-based health tracking system for Gen Z lifestyle improvement.
 
 ---
 
-### 🏠 SmartHome Price Predictor
+### 🏠 SmartHomeValuator (House Price Predictor)
 
 Machine learning-based house price prediction system.
 
@@ -80,7 +79,7 @@ Machine learning-based house price prediction system.
 * Python (ML Model)
 * FastAPI (Backend)
 * Frontend (Vercel)
-* Render (Backend Deployment)
+* Railway (Backend Deployment)
 
 **Focus:**
 
@@ -109,7 +108,6 @@ Machine learning-based house price prediction system.
 
 ### DevOps & Deployment
 
-* Render
 * Railway
 * Vercel
 * Git & GitHub
@@ -128,7 +126,6 @@ Machine learning-based house price prediction system.
 
 * Clean database structure first
 * Clear system architecture
-* Feature isolation using session/state logic
 * Production-oriented mindset
 * Write code that can scale
 
