@@ -24,7 +24,7 @@ My main interests include:
 
 ### 🧠 Teman Aman — Mobile App with AI-Integrated ChatBot
 
-AI-powered Telegram chatbot focused on sexual violence prevention education and mental health awareness.
+AI-powered Mobile App chatbot focused on sexual violence prevention education and mental health awareness.
 
 **Tech Stack:**
 
