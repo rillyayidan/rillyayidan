@@ -50,26 +50,6 @@ AI-powered Telegram chatbot focused on sexual violence prevention education and 
 
 ---
 
-### 📱 Zynergy — Gen Z Health App
-
-Mobile-based health tracking system for Gen Z lifestyle improvement.
-
-**Tech Stack:**
-
-* Flutter (Mobile)
-* Laravel (Backend API)
-* MySQL
-* RESTful API integration
-
-**Focus:**
-
-* Health tracking
-* Lifestyle education
-* Backend API integration
-* Production deployment
-
----
-
 ### 🏠 SmartHomeValuator (House Price Predictor)
 
 Machine learning-based house price prediction system.
@@ -112,13 +92,6 @@ Machine learning-based house price prediction system.
 * Vercel
 * Git & GitHub
 * Environment configuration
-
-### AI Integration
-
-* OpenAI API
-* Context management
-* Prompt structuring
-* GPT-based feature development
 
 ---
 
