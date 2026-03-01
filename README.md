@@ -50,25 +50,6 @@ AI-powered Telegram chatbot focused on sexual violence prevention education and 
 
 ---
 
-### 🏠 SmartHomeValuator (House Price Predictor)
-
-Machine learning-based house price prediction system.
-
-**Tech Stack:**
-
-* Python (ML Model)
-* FastAPI (Backend)
-* Frontend (Vercel)
-* Railway (Backend Deployment)
-
-**Focus:**
-
-* ML Model serving
-* API integration
-* Deployment pipeline
-
----
-
 ## 🧩 Technical Skills
 
 ### Backend
@@ -92,15 +73,6 @@ Machine learning-based house price prediction system.
 * Vercel
 * Git & GitHub
 * Environment configuration
-
----
-
-## 📌 Development Principles
-
-* Clean database structure first
-* Clear system architecture
-* Production-oriented mindset
-* Write code that can scale
 
 ---
 
