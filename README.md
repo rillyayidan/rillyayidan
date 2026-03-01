@@ -18,11 +18,9 @@ My main interests include:
 * Deployment & DevOps (Render, Railway, Vercel)
 * Production-ready software development
 
-I prefer building real systems with proper structure, database design, and deployment — not just prototypes.
-
 ---
 
-## 🚀 Highlight Projects
+## 🚀 Highlight Project
 
 ### 🧠 Teman Aman — Mobile App with AI-Integrated ChatBot
 
@@ -88,5 +86,3 @@ AI-powered Telegram chatbot focused on sexual violence prevention education and 
 ## 📫 Contact
 
 GitHub: [https://github.com/rillyayidan](https://github.com/rillyayidan)
-
----
