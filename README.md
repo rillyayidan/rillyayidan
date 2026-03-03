@@ -6,7 +6,7 @@ Computer Science Student | Backend Developer | AI Integration Enthusiast
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I am a Computer Science / Informatics student focused on building scalable backend systems and AI-powered applications.
 
@@ -20,9 +20,9 @@ My main interests include:
 
 ---
 
-## 🚀 Highlight Project
+##  Highlight Project
 
-### 🧠 Teman Aman — Mobile App with AI-Integrated ChatBot
+###  Teman Aman — Mobile App with AI-Integrated ChatBot
 
 AI-powered Mobile App chatbot focused on sexual violence prevention education and mental health awareness.
 
@@ -48,7 +48,7 @@ AI-powered Mobile App chatbot focused on sexual violence prevention education an
 
 ---
 
-## 🧩 Technical Skills
+##  Technical Skills
 
 ### Backend
 
@@ -74,7 +74,7 @@ AI-powered Mobile App chatbot focused on sexual violence prevention education an
 
 ---
 
-## 📈 Current Focus
+##  Current Focus
 
 * Improving system architecture quality
 * Mastering scalable backend design
