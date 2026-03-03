@@ -83,6 +83,6 @@ AI-powered Mobile App chatbot focused on sexual violence prevention education an
 
 ---
 
-## 📫 Contact
+##  Contact
 
 GitHub: [https://github.com/rillyayidan](https://github.com/rillyayidan)
