@@ -2,7 +2,7 @@
 
 # 💻 Rilly Ayidan
 
-Computer Science Student | Backend Developer | AI Integration Enthusiast
+Backend Developer | AI Integration Enthusiast
 
 ---
 
